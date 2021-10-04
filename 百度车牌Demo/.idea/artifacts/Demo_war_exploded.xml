@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="百度车牌Demo:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Demo_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="百度车牌Demo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="百度车牌Demo" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
